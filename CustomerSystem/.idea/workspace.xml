@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CustomerSystem:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2ea384a-95c6-41a8-aa54-ac31dad5b91b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/AsignacinPlusDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/AsignacionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/DemoPuntosextra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/DetallePuntos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/interfaces/IAsignacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/interfaces/IEstadoVencimiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/interfaces/IPuntosComposicionInterfaz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/ejb/BolsaPuntosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/ejb/BolsaPuntosDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/ejb/ClienteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/ejb/ClienteDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/model/Asignacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/model/Asignacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/model/Puntos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/model/Puntos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/model/Puntosextra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/model/Puntosextra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/model/Vencimiento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/model/Vencimiento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/AbstractPuntos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/AbstractPuntos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/AdaptadorPuntos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/AdaptadorIPuntos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/interfaces/PuntosInterfaz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/interfaces/IPuntosInterfaz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/interfaces/StrategyUsarPuntos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/py/com/progweb/fidelizacionclientes/util/interfaces/IStrategyUsarPuntos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/ejb/BolsaPuntosDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/ejb/BolsaPuntosDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/ejb/ClienteDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/ejb/ClienteDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/model/Asignacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/model/Asignacion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/model/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/model/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/model/Puntos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/model/Puntos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/model/Puntosextra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/model/Puntosextra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/model/Vencimiento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/model/Vencimiento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/util/AdaptadorPuntos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/util/interfaces/PuntosInterfaz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/py/com/progweb/fidelizacionclientes/util/interfaces/StrategyUsarPuntos.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h3neORzWKPY6xX5IHBETmQbZnU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Descargas/CustomerSystem" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28965518" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="py.com.progweb.fidelizacionclientes.Principal" />
+      <module name="customersystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="py.com.progweb.fidelizacionclientes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBoss 18.0.1.Final" type="JBossConfiguration" factoryName="Local" editBeforeRun="true" APPLICATION_SERVER_NAME="JBoss 18.0.1.Final" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/CustomerSystem/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="CustomerSystem:war">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50277" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CustomerSystem:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="JBossConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="SERVER" value="" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="" />
+        <option name="USERNAME" value="" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50704" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2ea384a-95c6-41a8-aa54-ac31dad5b91b" name="Default Changelist" comment="" />
+      <created>1599248745041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599248745041</updated>
+      <workItem from="1599248747791" duration="2046000" />
+      <workItem from="1599268236507" duration="156000" />
+      <workItem from="1599269479527" duration="1001000" />
+      <workItem from="1599270828267" duration="146000" />
+      <workItem from="1599342543481" duration="134000" />
+      <workItem from="1599344297443" duration="779000" />
+      <workItem from="1600026426939" duration="7589000" />
+      <workItem from="1600045211756" duration="445000" />
+      <workItem from="1603330440152" duration="1630000" />
+      <workItem from="1603332097322" duration="7593000" />
+      <workItem from="1603386510724" duration="5396000" />
+      <workItem from="1603392171670" duration="8695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="611" y="285" width="187" height="222" key="#Assign_Data_Sources" timestamp="1603332497834">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="581" y="253" width="513" height="222" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1599344553376" />
+    <state x="611" y="285" width="187" height="222" key="#Assign_Data_Sources/53.27.1313.741@53.27.1313.741" timestamp="1603332497834" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1599249003941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1599249003941" />
+    <state x="460" y="152" key="#Web_Browsers" timestamp="1599250083042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="152" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1599250083042" />
+    <state x="165" y="27" width="1084" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603332535282">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="117" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599269780354" />
+    <state x="165" y="27" width="1084" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog/53.27.1313.741@53.27.1313.741" timestamp="1603332535282" />
+    <state x="521" y="106" width="565" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1603399136516">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="487" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1599344806266" />
+    <state x="521" y="106" width="565" height="562" key="#com.intellij.ide.util.MemberChooser/53.27.1313.741@53.27.1313.741" timestamp="1603399136516" />
+    <state x="372" y="27" width="654" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603397709561">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="372" y="27" width="654" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/53.27.1313.741@53.27.1313.741" timestamp="1603397709561" />
+    <state x="212" y="17" key="DBNavigator.ProjectSettingsDialog" timestamp="1599270209182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="212" y="17" key="DBNavigator.ProjectSettingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599270209182" />
+    <state x="434" y="240" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600033933224">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="396" y="209" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599345123846" />
+    <state x="434" y="240" width="424" height="484" key="FileChooserDialogImpl/53.27.1313.741@53.27.1313.741" timestamp="1600033933224" />
+    <state width="1267" height="175" key="GridCell.Tab.0.bottom" timestamp="1603400346248">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1291" height="330" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599270342042" />
+    <state width="1267" height="175" key="GridCell.Tab.0.bottom/53.27.1313.741@53.27.1313.741" timestamp="1603400346248" />
+    <state width="1267" height="175" key="GridCell.Tab.0.center" timestamp="1603400346248">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1291" height="330" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599270342042" />
+    <state width="1267" height="175" key="GridCell.Tab.0.center/53.27.1313.741@53.27.1313.741" timestamp="1603400346248" />
+    <state width="1267" height="175" key="GridCell.Tab.0.left" timestamp="1603400346248">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1291" height="330" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599270342042" />
+    <state width="1267" height="175" key="GridCell.Tab.0.left/53.27.1313.741@53.27.1313.741" timestamp="1603400346248" />
+    <state width="1267" height="175" key="GridCell.Tab.0.right" timestamp="1603400346248">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1291" height="330" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599270342042" />
+    <state width="1267" height="175" key="GridCell.Tab.0.right/53.27.1313.741@53.27.1313.741" timestamp="1603400346248" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1599250985200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599250985200" />
+    <state x="387" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599248962561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1599248962561" />
+    <state x="373" y="175" width="672" height="677" key="run.anything.popup" timestamp="1603396057562">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="373" y="175" width="672" height="677" key="run.anything.popup/53.27.1313.741@53.27.1313.741" timestamp="1603396057562" />
+    <state x="372" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603392282046">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="372" y="89" width="672" height="678" key="search.everywhere.popup/53.27.1313.741@53.27.1313.741" timestamp="1603392282046" />
+  </component>
+</project>
